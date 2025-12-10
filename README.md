@@ -1,42 +1,21 @@
-# Hey there 👋  
+## Hey there! 👋
 
-I'm **JD**, an engineering student focused on Linux, automation, and building efficient workflows.  
-I believe in discipline, simplicity, and strong fundamentals — one shell script at a time.
+I'm JD, an engineering student focused on Linux, automation, and building reliable systems.
 
----
+If a task repeats, chances are I’ll script it. I love designing small tools that make workflows smoother and systems easier to manage.
 
-## 🧰 What I Do  
-- Linux system administration (Ubuntu / RHEL)  
-- Bash scripting & automation  
-- Networking basics (TCP/IP, SSH, firewalls)  
-- Small tools that improve daily sysadmin workflows  
+My main tech stack is Linux, Bash, Git/GitHub, and virtualization. I’m currently learning Docker and DevOps fundamentals.  
+My favorite tools right now are Bash, VirtualBox, and Wireshark.
 
----
+Most of my projects are automation-focused — setup scripts, backup utilities, and troubleshooting helpers. Everything I build is from scratch.
 
-## 🛠️ Tech & Tools  
-Linux • Bash • Git • VirtualBox • Docker (learning) • AWS CLI (basic)  
-Wireshark • Nmap • Python • VS Code / Nano  
+If you want to connect or talk Linux, reach me @:
 
----
+📧 [Email](mailto:geerthi.jd@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/geerthivash-jd/) 
 
-## 📌 Current Focus  
-- Mastering Linux admin + automation  
-- Building mini-projects (setup scripts, backup utilities, troubleshooting tools)  
-- Strengthening DevOps fundamentals  
-
----
-
-## 🧩 About Me  
+### Fun Facts:
+- Discipline-driven — train daily in calisthenics  
 - Automation-first mindset  
-- Discipline + consistency focused  
-- Calisthenics athlete  
-- Love building things that are clean, simple, and actually useful  
-
----
-
-## 📫 Contact  
-[![Email Badge](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geerthi.jd@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geerthivash-jd/)
-
-🐧 Always open to talk Linux.
-
+- Love building things that are simple, clean, and useful  
+- Strong fundamentals > fancy tools  
