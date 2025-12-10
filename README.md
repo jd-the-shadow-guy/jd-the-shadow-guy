@@ -43,9 +43,9 @@ I believe in discipline, simplicity, and mastering the fundamentals — one shel
 ---
 
 ## 📫 How to Reach Me  
-📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geerthi.jd@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geerthi.jd@gmail.com)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geerthivash-jd/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geerthivash-jd/)
 
 
 🐧 Always available to talk Linux.
