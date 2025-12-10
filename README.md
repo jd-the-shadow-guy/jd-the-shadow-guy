@@ -13,8 +13,8 @@ If you want to connect or talk Linux, catch me @:
 📧 [Email](mailto:geerthi.jd@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/geerthivash-jd/) 
 
-### Fun Facts:
-- Discipline-driven — train daily in calisthenics  
+### Bit about me 😉
+- Discipline driven - train daily in calisthenics  
 - Automation-first mindset  
 - Love building things that are simple, clean, and useful  
 - Strong fundamentals > fancy tools  
